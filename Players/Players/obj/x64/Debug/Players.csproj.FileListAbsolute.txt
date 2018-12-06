@@ -1,0 +1,16 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\x64\Debug\Players.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\x64\Debug\Players.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\x64\Debug\Players.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.Form1.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.csprojResolveAssemblyReference.cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.AddTeam.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.AddPlayer.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.UpdatePlayer.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.AddCoach.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.UpdateCoach.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.Game.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x64\Debug\Players.PlayerGame.resources

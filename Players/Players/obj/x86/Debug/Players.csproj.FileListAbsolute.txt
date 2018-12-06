@@ -1,0 +1,7 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\x86\Debug\Players.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\x86\Debug\Players.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\x86\Debug\Players.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x86\Debug\Players.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x86\Debug\Players.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x86\Debug\Players.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\x86\Debug\Players.pdb

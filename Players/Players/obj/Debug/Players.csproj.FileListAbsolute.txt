@@ -1,0 +1,8 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\Debug\Players.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\Debug\Players.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\bin\Debug\Players.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\Debug\Players.csprojResolveAssemblyReference.cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\Debug\Players.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\Debug\Players.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\Debug\Players.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\Players\Players\obj\Debug\Players.pdb

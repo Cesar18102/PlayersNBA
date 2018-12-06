@@ -1,0 +1,11 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\bin\Debug\PlayersReports.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\bin\Debug\PlayersReports.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\bin\Debug\PlayersReports.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\obj\Debug\PlayersReports.csprojResolveAssemblyReference.cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\obj\Debug\PlayersReports.Form1.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\obj\Debug\PlayersReports.Properties.Resources.resources
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\obj\Debug\PlayersReports.csproj.GenerateResource.Cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\obj\Debug\PlayersReports.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PlayersReports\PlayersReports\obj\Debug\PlayersReports.pdb
